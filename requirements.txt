@@ -1,6 +1,5 @@
 future
 numpy
-onnx
 pydot
 torch
 torchviz
